@@ -1,1 +1,14 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Writers brew</title>
+        <item>
+            <title>0.5</title>
+            <pubDate>Thu, 29 Dec 2022 14:54:11 +0530</pubDate>
+            <sparkle:version>0.5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/writers-brew.appspot.com/o/Writers%20brew.zip?alt=media&amp;token=55b5f1a6-5e38-44d1-9f67-06f80b9fda51" length="2411922" type="application/octet-stream" sparkle:edSignature="edD78WqUQbZl6JiGFx7GjSB6Y1s71WU5fcYs2a+XtAlEvVr2/6VT3JuhzJ4IUZOIlQWeqT/8Ol7b25onJKVYCA=="/>
+        </item>
+    </channel>
+</rss>
