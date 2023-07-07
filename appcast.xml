@@ -3,6 +3,14 @@
     <channel>
         <title>Writers brew</title>
         <item>
+            <title>1.1.0.0</title>
+            <pubDate>Fri, 07 Jul 2023 21:02:16 +0530</pubDate>
+            <sparkle:version>1.1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/writers-brew.appspot.com/o/Writers%20brew.zip?alt=media&amp;token=deea2dde-c091-4e6c-bd56-507110eafb32" length="48637456" type="application/octet-stream" sparkle:edSignature="+MkHpSTcmI83TGUCM0uAMoy/b+TR2HmefoStd0iGbWN7Qm7/zGeShP30qIFktdpXZg32Pcxp0yJTnAttKQqQAA=="/>
+        </item>
+        <item>
             <title>1.0.0.0</title>
             <pubDate>Wed, 14 Jun 2023 12:49:13 +0530</pubDate>
             <sparkle:version>1.0.0.0</sparkle:version>
